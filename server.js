@@ -2,7 +2,7 @@ const PORT = 8080;
 const express = require("express");
 const cors = require("cors");
 const app = express();
-const API_KEY = "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";
+const API_KEY = "sk-x3mllQG0myrvboo6BvsQT"+"3BlbkFJ4UE9WiaCq2fGQE0a5Cpy";
 
 app.use(express.json());
 app.use(cors());
